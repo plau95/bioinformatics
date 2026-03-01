@@ -6,13 +6,33 @@ While this intended to be coding friendly, prior knowledge of BASH and a program
 
 Finally, this is an introduction for students and not a exhaustive overview of WGS. This introduction serves as a basis for students but encourages further exploration of tools beyond what is provided here. 
 
-## Table of Contents ## 
-* <a name ="url-name">Whole genome sequencing</a>
-	- Quality filtering 
-	- Assembly with metaSPAdes and MEGAHIT
-  - Binning 
-  - Annotation with MG-RAST and SEED 
-* <a name ="url-name">Antibiotic Resistance (Ab-res) detection with CARD </a>
-* <a name ="url-name">Functional prediciton with InterProScan</a>
+If you have not sampled or prepared your DNA sample library, 
 
-## What is Whole 
+## Table of Contents ## 
+* <a name="url-name">Whole genome sequencing</a>
+	- Quality filtering
+ 	- Assembly with metaSPAdes and MEGAHIT
+ 	- Binning
+ 	- Annotation with MG-RAST and SEED 
+* <a name="url-name">Antibiotic Resistance (Ab-res) detection with CARD </a>
+* <a name="url-name">Functional prediciton with InterProScan</a>
+* <a name="url-name">**BONUS: Example plots for RStudio**</a>
+
+## Prerequisites ## 
+
+
+## What is whole genome sequencing? ## 
+Why do this? Why bother with understanding WGS? 
+
+We care because samples are often unculturable (samples cultured in the lab represent 1-2% of environmental samples). We implement WGS to remeedy this issue to attempt to understand what functional potential the microbes in our sample represent–– which is metagenomics analysis. 
+
+*How is this different than 16S?*
+
+16S amplicon sequencing is a targeted sequencing approach, often using a primer set (F-515 <> 806-R) to know what microbes exist in a sample (the who). In regards to WGS, it is limited in understanding the how and why these microbes exist. That's where WGS comes in. 
+
+
+
+
+
+
+
