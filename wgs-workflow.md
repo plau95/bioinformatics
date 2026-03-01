@@ -1,5 +1,7 @@
-# Workflow for whole genome sequencing (WGS) and antibiotic resistance detection 
+# Workflow for whole genome sequencing (WGS)
+
 *Made and distributed for work associated in Dr. Gabriel Perron* 
+
 **Purpose:** To provide an overview of the necessary steps for performing whole genome sequencing and subsequent analyses such as antibiotic resistance. We will be using publicly available resources such as [K-Base](https://kbase.us) and [EU Galaxy](https://usegalaxy.eu). 
 
 While this intended to be coding friendly, prior knowledge of BASH and a programming language (like R or Python) will be useful. 
