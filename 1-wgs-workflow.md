@@ -30,8 +30,7 @@ We care because samples are often unculturable (samples cultured in the lab repr
 
 *How is this different than 16S?*
 
-16S amplicon sequencing is a targeted sequencing approach, often using a primer set (F-515 <> 806-R) to know what microbes exist in a sample (the who). In regards to WGS, it is limited in understanding the how and why these microbes exist. That's where WGS comes in. 
-
+16S amplicon sequencing is a targeted sequencing approach, often using a primer set (F-515 <> 806-R) to know what microbes exist in a sample (the who). Additionally, the portion that gets amplified may not be present in all microbes. That's where WGS comes in. In regards to WGS, it is limited in understanding the how and why these microbes exist. 
 
 
 
