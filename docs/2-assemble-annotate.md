@@ -77,9 +77,9 @@ While each assembler produces different results with different qualities, it ess
 QUAST (Quality assessment tool) is designed to provide summary metrics of the assembly process/read. We can use these to compare each sample's assembled contigs to one another and select the best outputs for downstream analyses.
 While there aren't perfect metrics to really assess the best contigs, here is starting list you can use:
 
-  1) N50, N75: Tells you the length you've captured x% of your assembly. If the length of your assemble at x% is relatively high, we have a well-construct contig.
-  2) L50, L75: The number of contigs that make up x% of our assembly
-  3) Contig length: Sum of contig lengths
+  1) **N50, N75**: Tells you the length you've captured x% of your assembly. If the length of your assemble at x% is relatively high, we have a well-construct contig.
+  2) **L50, L75**: The number of contigs that make up x% of our assembly
+  3) **Contig length**: Sum of contig lengths
 
 **Steps** 
 1. Download the contigs and into our project folder we made at the beginning
