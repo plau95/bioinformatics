@@ -2,4 +2,4 @@
 Display repository for "near" complete programming code for bioinformatics 
 
 # Table of Contents
-1.) Whole genome sequencing pipeline 
+1.) [Identification of antibiotic resistance genes](URL here)
