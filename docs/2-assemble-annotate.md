@@ -4,8 +4,9 @@
 Note to self: can perform A-B-A either in Terminal CLI
 *[Insert diagram here]* 
 
-## 1. Quality check/read hygiene ## 
+
 ***If using KBase***
+## Demultiplexing reads ## 
 
 - Bulk uploading samples through importing your files onto KBase
   * Analyze window > Click on Arrow > Click on **Import**
@@ -18,7 +19,8 @@ Note to self: can perform A-B-A either in Terminal CLI
   * Select if file is Forward (R1) or Reverse (R2) read. Additionally give a unique object name to differentiate it between forward/reverse.
     * This only matters to you. Make sure you understand it.
   * Select the "Sequencing Technology" used to process your reads, and check the box for "Single Genome".
-  
+
+## 1. Quality check/read hygiene ## 
 ### 1.2 FASTQC and Trimmomatic ### 
 Want to know how good our sequencing was prior to cleaning it up (Rarely will be great). 
 
